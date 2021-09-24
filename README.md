@@ -1,6 +1,3 @@
-# CPP-Projects
-
-All Projects can be run in visual studio
 
 # Matrix Calculator Program
 The user can declare matrix and do operations on them
